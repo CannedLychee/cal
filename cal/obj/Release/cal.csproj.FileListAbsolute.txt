@@ -1,0 +1,13 @@
+D:\github\cal\cal\bin\Release\cal.exe.config
+D:\github\cal\cal\bin\Release\cal.exe
+D:\github\cal\cal\bin\Release\cal.pdb
+D:\github\cal\cal\obj\Release\MainWindow.baml
+D:\github\cal\cal\obj\Release\MainWindow.g.cs
+D:\github\cal\cal\obj\Release\App.g.cs
+D:\github\cal\cal\obj\Release\cal_MarkupCompile.cache
+D:\github\cal\cal\obj\Release\cal.g.resources
+D:\github\cal\cal\obj\Release\cal.Properties.Resources.resources
+D:\github\cal\cal\obj\Release\cal.csproj.GenerateResource.cache
+D:\github\cal\cal\obj\Release\cal.csproj.CoreCompileInputs.cache
+D:\github\cal\cal\obj\Release\cal.exe
+D:\github\cal\cal\obj\Release\cal.pdb
