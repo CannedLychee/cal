@@ -4,7 +4,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d"
-        Title="CAL by Z" Height="600" Width="400">
+        Title="CAL by CannedLychee" Height="600" Width="400">
     <Window.Resources>
         <Style x:Key="ButtonStyle"                  TargetType="Button">
             <Setter Property="VerticalAlignment"    Value="Stretch"/>
