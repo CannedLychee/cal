@@ -1,0 +1,14 @@
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\bin\Debug\cal.exe.config
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\bin\Debug\cal.exe
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\bin\Debug\cal.pdb
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\obj\Debug\cal.csprojAssemblyReference.cache
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\obj\Debug\MainWindow.g.cs
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\obj\Debug\App.g.cs
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\obj\Debug\cal_MarkupCompile.cache
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\obj\Debug\MainWindow.baml
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\obj\Debug\cal.g.resources
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\obj\Debug\cal.Properties.Resources.resources
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\obj\Debug\cal.csproj.GenerateResource.cache
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\obj\Debug\cal.csproj.CoreCompileInputs.cache
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\obj\Debug\cal.exe
+C:\Users\rapoz\OneDrive\Documents\codes\.NET\cal\cal\cal\obj\Debug\cal.pdb
