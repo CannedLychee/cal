@@ -212,9 +212,18 @@ namespace cal
         /// </summary>
         private void Click_dot(object sender, RoutedEventArgs e)
         {
+            if (flag_ans)
+            {
+                lineout.Text = "0";
+                flag_ans = false;
+                flag_opt = false;
+                opt = null;
+                result = 0;
+                numnow = 0;
+            }
             if (flag_dot == false)
             {
-                Display(".");
+                lineout.Text += ".";
                 dec_count = 0;
             }
             flag_dot = true;
